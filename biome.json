@@ -35,6 +35,9 @@
       "suspicious": {
         "useAwait": "warn"
       },
+      "style": {
+        "useImportType": "off"
+      },
       "recommended": true
     }
   },
@@ -42,7 +45,7 @@
     "formatter": {
       "quoteStyle": "single",
       "semicolons": "asNeeded",
-			"trailingCommas": "none"
+      "trailingCommas": "none"
     }
   },
   "assist": {
