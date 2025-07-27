@@ -32,6 +32,9 @@
         },
         "useExhaustiveDependencies": "off"
       },
+      "suspicious": {
+        "useAwait": "warn"
+      },
       "recommended": true
     }
   },
