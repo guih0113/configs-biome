@@ -46,6 +46,9 @@
       "quoteStyle": "single",
       "semicolons": "asNeeded",
       "trailingCommas": "none"
+    },
+    "parser": {
+      "unsafeParameterDecoratorsEnabled": true
     }
   },
   "assist": {
