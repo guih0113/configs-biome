@@ -33,9 +33,7 @@
     "strings": false
   },
   "editor.inlineSuggest.enabled": true,
-  // Terminal
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontFamily": "JetBrainsMono NF",
   "terminal.integrated.gpuAcceleration": "off",
   "terminal.integrated.showExitAlert": false,
   // Auto Save
@@ -113,5 +111,6 @@
     "Git Bash": {
       "source": "Git Bash"
     }
-  }
+  },
+  "terminal.integrated.fontSize": 12
 }
